@@ -1,6 +1,6 @@
 import re
 
-file_path = "/Users/tmy/Desktop/HighRPM/HondaCivic2008OriginalFile"
+file_path = ""
 
 
 RPM_DATA = {
